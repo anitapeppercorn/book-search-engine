@@ -7,7 +7,7 @@ https://github.com/anitapeppercorn/book-search-engine
 ```
 App is Deployed at:
 ``` text
-https://anitapeppercorn.github.io/book-search-engine/
+https://obscure-sierra-45901.herokuapp.com
 ```
 
 I took a fully functioning Google Books API search engine built with a RESTful API, and refactored it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. It was already set up to allow users to save book searches to the back end. In order for this application to use a GraphQL API, I refactored the API to use GraphQL on the back end and add some functionality to the front end. 
